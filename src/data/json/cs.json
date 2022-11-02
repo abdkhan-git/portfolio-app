@@ -750,6 +750,28 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Future quarters",
+      "dates": {
+        "start": "2023-01-09",
+        "end": "2024-06-15"
+      },
+      "courses": [
+        {
+          "courseName": "Remaining Courses",
+          "sections": [
+            {
+              "title": "Remaining Courses",
+              "url": "",
+              "progress": {
+                "completed": 0,
+                "total": 81.5
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }
