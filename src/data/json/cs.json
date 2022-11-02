@@ -1,0 +1,937 @@
+{
+  "metadata": {
+    "title": "B.S in Computer Science",
+    "subtitle": "Drexel University",
+    "info": "Currently enrolled in a 5 year, 3 co-op program which basically means I work as an intern for 1.5 years of my degree."
+  },
+  "semesters": [
+    {
+      "name": "Fall 2019",
+      "dates": {
+        "start": "2019-09-23",
+        "end": "2019-12-14"
+      },
+      "courses": [
+        {
+          "courseName": "CHEM 101 - A",
+          "sections": [
+            {
+              "title": "General Chemistry I",
+              "url": "https://catalog.drexel.edu/search/?P=CHEM%20101",
+              "progress": {
+                "completed": 3.5,
+                "total": 3.5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "ENGL 101 - A",
+          "sections": [
+            {
+              "title": "Composition and Rhetoric I",
+              "url": "https://catalog.drexel.edu/search/?P=ENGL%20101",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "ENGR 111 - A",
+          "sections": [
+            {
+              "title": "Intro to Engin Design & Data",
+              "url": "https://catalog.drexel.edu/search/?P=ENGR%20111",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MATH 121 - A",
+          "sections": [
+            {
+              "title": "Calculus I",
+              "url": "https://www.math.drexel.edu/classes/Calculus/math121.html",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "UNIV 101 - A+",
+          "sections": [
+            {
+              "title": "The Drexel Experience",
+              "url": "https://catalog.drexel.edu/coursedescriptions/quarter/undergrad/univas/#:~:text=Courses-,UNIV%C2%A0H101,-The%20Drexel%20Experience",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Winter 2020",
+      "dates": {
+        "start": "2020-01-06",
+        "end": "2020-03-21"
+      },
+      "courses": [
+        {
+          "courseName": "CHEM 102 - A",
+          "sections": [
+            {
+              "title": "General Chemistry II",
+              "url": "https://catalog.drexel.edu/coursedescriptions/quarter/undergrad/chem/#:~:text=%3A%20EXAM%20080-,CHEM%C2%A0102,-General%20Chemistry%20II",
+              "progress": {
+                "completed": 4.5,
+                "total": 4.5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CIVC 101 - A+",
+          "sections": [
+            {
+              "title": "Intro to Civic Engagement",
+              "url": "https://drexel.edu/lindycenter/students/courses/first-year-civic-engagement/civc-101/",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "COOP 101 - A+",
+          "sections": [
+            {
+              "title": "Career Mgmt/Profess Dev",
+              "url": "https://drexel.edu/scdc/co-op/policies/coop-101-course/",
+              "progress": {
+                "completed": 0.1,
+                "total": 0.1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "ENGL 102 - A",
+          "sections": [
+            {
+              "title": "Composition and Rhetoric II",
+              "url": "https://catalog.drexel.edu/search/?P=ENGL%20102",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "ENGR 131 - A+",
+          "sections": [
+            {
+              "title": "Intro to Programming for Engineers",
+              "url": "https://catalog.drexel.edu/search/?P=ENGR%20131",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MATH 122 - A+",
+          "sections": [
+            {
+              "title": "Calculus II",
+              "url": "https://www.math.drexel.edu/classes/Calculus/math122.html",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "PHYS 101 - A",
+          "sections": [
+            {
+              "title": "Fundamentals of Physics I",
+              "url": "https://catalog.drexel.edu/search/?P=PHYS%20101",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spring 2020",
+      "dates": {
+        "start": "2020-04-06",
+        "end": "2020-06-13"
+      },
+      "courses": [
+        {
+          "courseName": "ECE 105 - A+",
+          "sections": [
+            {
+              "title": "Programming for Engineers II",
+              "url": "https://catalog.drexel.edu/search/?P=ECE%20105",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "ENGL 103 - A",
+          "sections": [
+            {
+              "title": "Composition and Rhetoric III",
+              "url": "https://catalog.drexel.edu/search/?P=ENGL%20103",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "ENGR 113 - A",
+          "sections": [
+            {
+              "title": "1st Year Engineering Design",
+              "url": "https://catalog.drexel.edu/search/?P=ENGR%20113",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+
+        {
+          "courseName": "ENGR 370 - A",
+          "sections": [
+            {
+              "title": "Measuring Air Quality with Kites",
+              "url": "https://catalog.drexel.edu/coursedescriptions/quarter/undergrad/engr/#:~:text=Freshman%20or%20Sophomore-,ENGR%C2%A0370,-Vertically%20Integrated%20Projects",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MATH 200 - A+",
+          "sections": [
+            {
+              "title": "Multivariate Calculus",
+              "url": "https://www.math.drexel.edu/classes/Calculus/math200.html",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "PHYS 201 - A",
+          "sections": [
+            {
+              "title": "Fundamentals of Physics II",
+              "url": "https://catalog.drexel.edu/search/?P=PHYS%20102",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fall 2020",
+      "dates": {
+        "start": "2020-09-21",
+        "end": "2020-12-12"
+      },
+      "courses": [
+        {
+          "courseName": "CI 101 - A",
+          "sections": [
+            {
+              "title": "Computing and Informatics Design I",
+              "url": "https://catalog.drexel.edu/coursedescriptions/quarter/undergrad/ci/#:~:text=Courses-,CI%C2%A0101,-Computing%20and%20Informatics",
+              "progress": {
+                "completed": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CS 265 - A+",
+          "sections": [
+            {
+              "title": "Advanced Programming and Techniques",
+              "url": "https://catalog.drexel.edu/search/?P=CS%20265",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MATH 123 - A",
+          "sections": [
+            {
+              "title": "Calculus III",
+              "url": "https://catalog.drexel.edu/search/?P=MATH%20123",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MATH 201 - A+",
+          "sections": [
+            {
+              "title": "Linear Algebra",
+              "url": "https://catalog.drexel.edu/search/?P=MATH%20201",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "PSY 101 - A",
+          "sections": [
+            {
+              "title": "General Psychology I",
+              "url": "https://catalog.drexel.edu/coursedescriptions/quarter/undergrad/psy/#:~:text=Courses-,PSY%C2%A0101,-General%20Psychology%20I",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Winter 2021",
+      "dates": {
+        "start": "2021-01-11",
+        "end": "2021-03-20"
+      },
+      "courses": [
+        {
+          "courseName": "ACCT 110 - A+",
+          "sections": [
+            {
+              "title": "Accounting for Professionals",
+              "url": "https://catalog.drexel.edu/coursedescriptions/quarter/undergrad/acct/#:~:text=Courses-,ACCT%C2%A0110,-Accounting%20for%20Professionals",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CS 164 - A",
+          "sections": [
+            {
+              "title": "Intro to Computer Science",
+              "url": "https://catalog.drexel.edu/search/?P=CS%20164",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CS 260 - A+",
+          "sections": [
+            {
+              "title": "Data Structures",
+              "url": "https://catalog.drexel.edu/search/?P=CS%20260",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CS 270 - A-",
+          "sections": [
+            {
+              "title": "Math Foundations of Computer Science",
+              "url": "https://catalog.drexel.edu/search/?P=CS%20270",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MATH 311 - A",
+          "sections": [
+            {
+              "title": "Probability and Statistics I",
+              "url": "https://catalog.drexel.edu/search/?P=MATH%20311",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quarter 6",
+      "dates": {
+        "start": "2024-07-01",
+        "end": "2024-12-31"
+      },
+      "courses": [
+        {
+          "courseName": "DSC 560 Machine Learning",
+          "sections": [
+            {
+              "title": "Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 563 Applied Data Science",
+          "sections": [
+            {
+              "title": "Applied Data Science with Python Specialization",
+              "url": "https://www.coursera.org/specializations/data-science-python",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 565 Computer Vision",
+          "sections": [
+            {
+              "title": "First Principles of Computer Vision Specialization",
+              "url": "https://www.coursera.org/specializations/firstprinciplesofcomputervision",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 567 Autonomous Systems Engineering",
+          "sections": [
+            {
+              "title": "Self-Driving Cars Specialization",
+              "url": "https://www.coursera.org/specializations/self-driving-cars",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MAT 560 Mathematics for Machine Learning",
+          "sections": [
+            {
+              "title": "Mathematics for Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/mathematics-machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quarter 7",
+      "dates": {
+        "start": "2024-07-01",
+        "end": "2024-12-31"
+      },
+      "courses": [
+        {
+          "courseName": "DSC 560 Machine Learning",
+          "sections": [
+            {
+              "title": "Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 563 Applied Data Science",
+          "sections": [
+            {
+              "title": "Applied Data Science with Python Specialization",
+              "url": "https://www.coursera.org/specializations/data-science-python",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 565 Computer Vision",
+          "sections": [
+            {
+              "title": "First Principles of Computer Vision Specialization",
+              "url": "https://www.coursera.org/specializations/firstprinciplesofcomputervision",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 567 Autonomous Systems Engineering",
+          "sections": [
+            {
+              "title": "Self-Driving Cars Specialization",
+              "url": "https://www.coursera.org/specializations/self-driving-cars",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MAT 560 Mathematics for Machine Learning",
+          "sections": [
+            {
+              "title": "Mathematics for Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/mathematics-machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quarter 8",
+      "dates": {
+        "start": "2024-07-01",
+        "end": "2024-12-31"
+      },
+      "courses": [
+        {
+          "courseName": "DSC 560 Machine Learning",
+          "sections": [
+            {
+              "title": "Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 563 Applied Data Science",
+          "sections": [
+            {
+              "title": "Applied Data Science with Python Specialization",
+              "url": "https://www.coursera.org/specializations/data-science-python",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 565 Computer Vision",
+          "sections": [
+            {
+              "title": "First Principles of Computer Vision Specialization",
+              "url": "https://www.coursera.org/specializations/firstprinciplesofcomputervision",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 567 Autonomous Systems Engineering",
+          "sections": [
+            {
+              "title": "Self-Driving Cars Specialization",
+              "url": "https://www.coursera.org/specializations/self-driving-cars",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MAT 560 Mathematics for Machine Learning",
+          "sections": [
+            {
+              "title": "Mathematics for Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/mathematics-machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quarter 9",
+      "dates": {
+        "start": "2024-07-01",
+        "end": "2024-12-31"
+      },
+      "courses": [
+        {
+          "courseName": "DSC 560 Machine Learning",
+          "sections": [
+            {
+              "title": "Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 563 Applied Data Science",
+          "sections": [
+            {
+              "title": "Applied Data Science with Python Specialization",
+              "url": "https://www.coursera.org/specializations/data-science-python",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 565 Computer Vision",
+          "sections": [
+            {
+              "title": "First Principles of Computer Vision Specialization",
+              "url": "https://www.coursera.org/specializations/firstprinciplesofcomputervision",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 567 Autonomous Systems Engineering",
+          "sections": [
+            {
+              "title": "Self-Driving Cars Specialization",
+              "url": "https://www.coursera.org/specializations/self-driving-cars",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MAT 560 Mathematics for Machine Learning",
+          "sections": [
+            {
+              "title": "Mathematics for Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/mathematics-machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quarter 10",
+      "dates": {
+        "start": "2024-07-01",
+        "end": "2024-12-31"
+      },
+      "courses": [
+        {
+          "courseName": "DSC 560 Machine Learning",
+          "sections": [
+            {
+              "title": "Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 563 Applied Data Science",
+          "sections": [
+            {
+              "title": "Applied Data Science with Python Specialization",
+              "url": "https://www.coursera.org/specializations/data-science-python",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 565 Computer Vision",
+          "sections": [
+            {
+              "title": "First Principles of Computer Vision Specialization",
+              "url": "https://www.coursera.org/specializations/firstprinciplesofcomputervision",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 567 Autonomous Systems Engineering",
+          "sections": [
+            {
+              "title": "Self-Driving Cars Specialization",
+              "url": "https://www.coursera.org/specializations/self-driving-cars",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MAT 560 Mathematics for Machine Learning",
+          "sections": [
+            {
+              "title": "Mathematics for Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/mathematics-machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quarter 11",
+      "dates": {
+        "start": "2024-07-01",
+        "end": "2024-12-31"
+      },
+      "courses": [
+        {
+          "courseName": "DSC 560 Machine Learning",
+          "sections": [
+            {
+              "title": "Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 563 Applied Data Science",
+          "sections": [
+            {
+              "title": "Applied Data Science with Python Specialization",
+              "url": "https://www.coursera.org/specializations/data-science-python",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 565 Computer Vision",
+          "sections": [
+            {
+              "title": "First Principles of Computer Vision Specialization",
+              "url": "https://www.coursera.org/specializations/firstprinciplesofcomputervision",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 567 Autonomous Systems Engineering",
+          "sections": [
+            {
+              "title": "Self-Driving Cars Specialization",
+              "url": "https://www.coursera.org/specializations/self-driving-cars",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MAT 560 Mathematics for Machine Learning",
+          "sections": [
+            {
+              "title": "Mathematics for Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/mathematics-machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quarter 12",
+      "dates": {
+        "start": "2024-07-01",
+        "end": "2024-12-31"
+      },
+      "courses": [
+        {
+          "courseName": "DSC 560 Machine Learning",
+          "sections": [
+            {
+              "title": "Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 563 Applied Data Science",
+          "sections": [
+            {
+              "title": "Applied Data Science with Python Specialization",
+              "url": "https://www.coursera.org/specializations/data-science-python",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 565 Computer Vision",
+          "sections": [
+            {
+              "title": "First Principles of Computer Vision Specialization",
+              "url": "https://www.coursera.org/specializations/firstprinciplesofcomputervision",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 567 Autonomous Systems Engineering",
+          "sections": [
+            {
+              "title": "Self-Driving Cars Specialization",
+              "url": "https://www.coursera.org/specializations/self-driving-cars",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MAT 560 Mathematics for Machine Learning",
+          "sections": [
+            {
+              "title": "Mathematics for Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/mathematics-machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

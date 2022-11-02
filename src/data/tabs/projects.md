@@ -1,47 +1,17 @@
 ### Some of the projects I've worked on so far
 
-- [turali.js.org](https://turali.js.org/)
+- [MarketSIM](https://gitlab.com/Zohair-coder/market-sim)
 
-  - The web app you are currently looking at.
-  - `React`, `TypeScript`
+  Led a team of 4 to create a stock market simulator to invest with virtual currency using React.js, Node.js, PostgreSQL and web sockets to get real time stock data.
 
-- [GetKernel](https://getkernel.now.sh/) \[_Half-baked_\]
+- [What's In Your Fridge?](https://gitlab.cci.drexel.edu/ci102-3teaml/whats_in_your_fridge)
 
-  - The kernel store for Ubuntu derivatives.
-  - `NextJS`
+  Led a team of 5 to create a React webapp to help users find recipes based on ingredients they have in their fridge
 
-- [deepintr.js.org](https://deepintr.js.org/)
+- [Drexel Course Notifier](https://github.com/Zohair-coder/Drexel-Course-Availability-Notifier)
 
-  - Landing page for an online community.
-  - `GatsbyJS`, `React`, `TypeScript`
+  Built a web-scraperin Python3 that notifies students via email when their selected course has available seats, impacting over 130 students at Drexel University
 
-- [Girizgah](https://turali.js.org/girizgah/)
+- SAP Hackathon
 
-  - Greeter (LightDM Webkit) theme for Pardus Linux.
-  - `React`
-
-- [Piyango.online](https://piyango.online/) \[_Abandoned_\]
-
-  - [Frontend](https://piyango.online/) | [Backend](https://dev.piyango.online/)
-  - Similar to _Bilen Adam_, which is listed below.
-  - `React`, `TypeScript`, `Serverless Functions`
-
-- [Astroloci](https://play.google.com/store/apps/details?id=com.astroloci.app)
-
-  - A horoscope application for Android.
-  - `Java`, `Express.js`
-
-- [Bilen Adam](https://play.google.com/store/apps/details?id=com.caglarturali.bilenadam)
-
-  - Lottery machine for Turkey's national lottery games.
-  - `C#`, `Unity 3D`
-
-- [2●48](https://play.google.com/store/apps/details?id=com.caglarturali.the2o48)
-
-  - A clone of the popular puzzle game 2048, with unlimited levels.
-  - `C#`, `Unity 3D`
-
-- [WatcherCatBot](https://github.com/caglarturali/WatcherCatBot/)
-
-  - A Telegram bot that returns popularity info of the given Linux distribution.
-  - `Node.js`, `Express.js`
+  Participated in a Hackathon and worked primarily on the backend, using Node.js and MongoDB

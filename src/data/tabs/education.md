@@ -1,18 +1,10 @@
 ### My \[academic\] background
 
-- [Software Engineering](/swe)
+- Drexel University
 
-  - Apprenticeship Program
-  - 2020-...
+  - B.S. in Computer Science
+  - Expected Graduation in June 2024
+  - GPA: 3.83
 
-- [Computer Education and Instructional Technologies](https://bote.kku.edu.tr/)
-
-  - Kirikkale University
-  - Bachelor's Degree
-  - 2010-2017
-
-- [Physics](https://fizik.kku.edu.tr/)
-
-  - Kirikkale University
-  - _Dropout_
-  - 2008-2010
+- Harvard CS50 Course ([certificate] (https://certificates.cs50.io/801bb5e8-6b16-4993-94ac-85911ba54d47.pdf?size=letter))
+- The Complete 2021 Web Development Bootcamp ([certificate] (https://www.udemy.com/certificate/UC-e0ba6a57-93a5-4d3e-a69b-090c60ead761/))

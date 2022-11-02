@@ -34,6 +34,9 @@ export default {
     '& ul': {
       '& li': {
         paddingBottom: '4px',
+        '& a': {
+          color: midBlue,
+        },
       },
       [`@media screen and (max-width: ${breakpoints.desktop})`]: {
         paddingLeft: '20px',
