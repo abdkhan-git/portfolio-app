@@ -763,7 +763,7 @@
           "sections": [
             {
               "title": "Remaining Courses",
-              "url": "",
+              "url": "#",
               "progress": {
                 "completed": 0,
                 "total": 81.5

@@ -27,7 +27,7 @@ const Greeter: React.FC<GreeterProps> = ({
     const options = {
       strings: staticData.typed,
       typeSpeed: 70,
-      backSpeed: 50,
+      backSpeed: 70,
       loop: true,
       smartBackspace: true,
     };
