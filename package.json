@@ -51,6 +51,7 @@
     "react-markdown": "^4.3.1",
     "react-scripts": "3.4.1",
     "react-tooltip": "^4.2.21",
+    "rehype-raw": "^6.1.1",
     "typed.js": "^2.0.12"
   },
   "devDependencies": {

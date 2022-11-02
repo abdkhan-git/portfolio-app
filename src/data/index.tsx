@@ -46,11 +46,11 @@ export const pages: PageLink[] = [
 
 export const tabs: TabLink[] = [
   {
-    name: 'skills.js',
-    url: '/skills',
+    name: 'experience.js',
+    url: '/experience',
     icon: ['fab', 'js'],
     color: jsOrange,
-    mdFileName: 'skills',
+    mdFileName: 'experience',
   },
   {
     name: '.educationrc',
