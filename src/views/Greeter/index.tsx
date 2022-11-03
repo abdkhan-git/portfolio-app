@@ -52,12 +52,6 @@ const Greeter: React.FC<GreeterProps> = ({
           <span id="typed-insert-point" style={{ whiteSpace: 'pre' }} />
         </div>
         <MainButtons contactData={contactData} repoUrl={repoUrl} />
-        <div className={classes.subHeading}>
-          <a href="mailto:zohair.ul.hasan@gmail.com">
-            zohair.ul.hasan@gmail.com
-          </a>
-        </div>
-        <div className={classes.subHeading}>(215)-316-4989</div>
       </section>
     </>
   );

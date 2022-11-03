@@ -50,7 +50,7 @@ const MainButtons: React.FC<MainButtonsProps> = ({ contactData, repoUrl }) => {
     // },
   ];
 
-  const mainContact = contactData.find((c) => c.isMain) as ContactItem;
+  const mainContacts = contactData.filter((c) => c.isMain) as ContactItem[];
 
   return (
     <div className={classes.root}>
@@ -60,13 +60,16 @@ const MainButtons: React.FC<MainButtonsProps> = ({ contactData, repoUrl }) => {
         ))}
       </div>
       <div>
-        <ButtonLink
-          href={mainContact.url}
-          title={`Find me on ${mainContact.name}`}
-          icon={mainContact.icon as IconProp}
-          size="lg"
-          text="Contact Me"
-        />
+        {mainContacts.map((contact) => (
+          <ButtonLink
+            key={`main-contact-${contact.icon}`}
+            href={contact.url}
+            icon={contact.icon as IconProp}
+            size="lg"
+            text={contact.text || ''}
+            title=""
+          />
+        ))}
       </div>
     </div>
   );

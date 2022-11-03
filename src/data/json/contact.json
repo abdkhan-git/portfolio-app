@@ -1,15 +1,24 @@
 [
   {
-    "name": "Email",
-    "url": "mailto:zohair.ul.hasan@gmail.com",
-    "icon": ["fas", "envelope"],
-    "isMain": false
-  },
-  {
     "name": "LinkedIn",
     "url": "https://linkedin.com/in/zohair01",
     "icon": ["fab", "linkedin"],
-    "isMain": true
+    "isMain": true,
+    "text": "linkedin.com/in/zohair01"
+  },
+  {
+    "name": "Email",
+    "url": "mailto:zohair.ul.hasan@gmail.com",
+    "icon": ["fas", "envelope"],
+    "isMain": true,
+    "text": "zohair.ul.hasan@gmail.com"
+  },
+  {
+    "name": "Phone",
+    "url": "tel:2153164989",
+    "icon": ["fas", "phone-alt"],
+    "isMain": true,
+    "text": "(215)-316-4989"
   },
   {
     "name": "GitHub",

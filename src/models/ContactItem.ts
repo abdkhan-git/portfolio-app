@@ -1,6 +1,7 @@
 import { Linkable } from './Linkable';
 
 export interface ContactItem extends Linkable {
+  text?: string;
   name: string;
   icon: string | string[];
   url: string;

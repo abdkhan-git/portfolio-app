@@ -16,6 +16,7 @@ import {
   faCog,
   faQuestionCircle,
   faEnvelope,
+  faPhoneAlt,
 } from '@fortawesome/free-solid-svg-icons';
 
 library.add(
@@ -35,4 +36,5 @@ library.add(
   faCog,
   faQuestionCircle,
   faEnvelope,
+  faPhoneAlt,
 );
