@@ -14,4 +14,14 @@ export default {
       justifyContent: 'center',
     },
   },
+  mainButtons: {
+    display: 'flex',
+    flexDirection: 'column',
+    // marginTop: '50px',
+    '& div': {
+      display: 'flex',
+      alignItems: 'center',
+      justifyContent: 'center',
+    },
+  },
 } as Styles;

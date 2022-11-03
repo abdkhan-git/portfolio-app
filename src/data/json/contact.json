@@ -1,17 +1,17 @@
 [
   {
-    "name": "LinkedIn",
-    "url": "https://linkedin.com/in/zohair01",
-    "icon": ["fab", "linkedin"],
-    "isMain": true,
-    "text": "linkedin.com/in/zohair01"
-  },
-  {
     "name": "Email",
     "url": "mailto:zohair.ul.hasan@gmail.com",
     "icon": ["fas", "envelope"],
     "isMain": true,
     "text": "zohair.ul.hasan@gmail.com"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://linkedin.com/in/zohair01",
+    "icon": ["fab", "linkedin"],
+    "isMain": true,
+    "text": "linkedin.com/in/zohair01"
   },
   {
     "name": "Phone",
