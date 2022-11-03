@@ -12,6 +12,7 @@ import {
   lSize,
   breakpoints,
   mlSize,
+  mSize,
   sansFont,
   heights,
 } from '../../theme';
@@ -49,6 +50,23 @@ export default {
     '& a': {
       textDecoration: 'none',
       borderBottom: `1px dashed ${textDark}`,
+    },
+    '& strong': {
+      fontWeight: '500',
+    },
+    [`@media screen and (max-width: ${breakpoints.desktop})`]: {
+      fontSize: mlSize,
+    },
+  },
+  subHeading: {
+    color: textDark,
+    fontSize: mSize,
+    fontWeight: 400,
+    margin: '5px',
+    padding: '0',
+    userSelect: 'none',
+    '& a': {
+      textDecoration: 'none',
     },
     '& strong': {
       fontWeight: '500',
