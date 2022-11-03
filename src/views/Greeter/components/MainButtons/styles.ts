@@ -2,6 +2,7 @@
  * MainButtons component styles.
  */
 import { Styles } from 'react-jss';
+import { breakpoints } from '../../../../theme';
 
 export default {
   root: {
@@ -16,8 +17,10 @@ export default {
   },
   mainButtons: {
     display: 'flex',
-    flexDirection: 'column',
-    // marginTop: '50px',
+    flexDirection: 'row',
+    [`@media screen and (max-width: ${breakpoints.desktop})`]: {
+      flexDirection: 'column',
+    },
     '& div': {
       display: 'flex',
       alignItems: 'center',
