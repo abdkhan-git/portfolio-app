@@ -17,9 +17,10 @@
     "name": "Phone",
     "url": "tel:2153164989",
     "icon": ["fas", "phone-alt"],
-    "isMain": true,
+    "isMain": false,
     "text": "(215)-316-4989"
   },
+
   {
     "name": "GitHub",
     "url": "https://github.com/zohair-coder",
@@ -31,5 +32,12 @@
     "url": "https://gitlab.com/zohair-coder",
     "icon": ["fab", "gitlab"],
     "isMain": false
+  },
+  {
+    "name": "PayPal",
+    "url": "https://paypal.me/zohairulhasan",
+    "icon": ["fab", "paypal"],
+    "isMain": true,
+    "text": "paypal.me/zohairulhasan 🥺👉🏾👈🏾"
   }
 ]

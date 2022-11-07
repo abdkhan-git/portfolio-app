@@ -13,7 +13,9 @@ SAP America - Artificial Intelligence (April 2022 - Current)
 - Debugged and fixed small issues with ML Lab using React and Python to improve user experience
 
 <img src="https://i.imgur.com/0GCYuCI.png" width="80%">
+
 <img src="https://i.imgur.com/YmbsZRS.png" width="80%">
+
 <img src="https://i.imgur.com/PVRoLMg.png" width="80%">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png" width=50 />
