@@ -22,3 +22,5 @@
 - SAP Hackathon
 
   Participated in a Hackathon and worked primarily on the backend, using Node.js and MongoDB
+
+<img src="https://i.imgur.com/bt3k4Hh.png" width="30%">
