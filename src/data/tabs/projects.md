@@ -17,6 +17,8 @@
 
   Built a web-scraperin Python3 that notifies students via email when their selected course has available seats, impacting over 130 students at Drexel University
 
+  <img src="https://camo.githubusercontent.com/4d1b5033a461879d487241fcef2d861f59e60bc2dae447b06f85909a625983b7/68747470733a2f2f692e696d6775722e636f6d2f387869334269362e706e67" width="80%">
+
 - SAP Hackathon
 
   Participated in a Hackathon and worked primarily on the backend, using Node.js and MongoDB
