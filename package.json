@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/Zohair-coder/caglarturali.github.io"
   },
-  "homepage": "https://turali.js.org",
+  "homepage": "https://www.zohair.dev",
   "license": "GNU GPLv3",
   "scripts": {
     "start": "react-scripts start",
