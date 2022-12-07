@@ -752,6 +752,80 @@
       ]
     },
     {
+      "name": "Winter 2023",
+      "dates": {
+        "start": "2023-01-09",
+        "end": "2023-03-31"
+      },
+      "courses": [
+        {
+          "courseName": "CS T480",
+          "sections": [
+            {
+              "title": "Advanced Web Development",
+              "url": "https://catalog.drexel.edu/coursedescriptions/quarter/undergrad/cs/#:~:text=times%20for%20credit-,CS%C2%A0T480,-Special%20Topics%20in",
+              "progress": {
+                "completed": 1.5,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "COM 270",
+          "sections": [
+            {
+              "title": "Business Communication",
+              "url": "https://catalog.drexel.edu/search/?P=COM%20270",
+              "progress": {
+                "completed": 1.5,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "PHIL 110",
+          "sections": [
+            {
+              "title": "Introduction to Philosophy",
+              "url": "https://catalog.drexel.edu/search/?P=PHIL%20110",
+              "progress": {
+                "completed": 1.5,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "WGST 101",
+          "sections": [
+            {
+              "title": "Introduction to Women's and Gender Studies",
+              "url": "https://catalog.drexel.edu/search/?P=WGST%20101",
+              "progress": {
+                "completed": 1.5,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CS 360",
+          "sections": [
+            {
+              "title": "Programming Language Concepts",
+              "url": "https://catalog.drexel.edu/search/?P=CS%20360",
+              "progress": {
+                "completed": 1.5,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Future quarters",
       "dates": {
         "start": "2023-01-09",
