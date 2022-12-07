@@ -17,6 +17,7 @@ import {
   faQuestionCircle,
   faEnvelope,
   faPhoneAlt,
+  faFilePdf,
 } from '@fortawesome/free-solid-svg-icons';
 
 library.add(
@@ -37,4 +38,5 @@ library.add(
   faQuestionCircle,
   faEnvelope,
   faPhoneAlt,
+  faFilePdf,
 );

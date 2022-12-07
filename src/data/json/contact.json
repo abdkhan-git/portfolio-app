@@ -25,7 +25,7 @@
     "name": "GitHub",
     "url": "https://github.com/zohair-coder",
     "icon": ["fab", "github"],
-    "isMain": false
+    "text": "zohair.ul.hasan@gmail.com"
   },
   {
     "name": "GitLab",
@@ -39,5 +39,13 @@
     "icon": ["fab", "paypal"],
     "isMain": true,
     "text": "paypal.me/zohairulhasan 🥺👉🏾👈🏾"
+  },
+  {
+    "name": "Resume",
+    "url": "https://github.com/Zohair-coder/Web-Dev-Resume/raw/main/Zohair's%20Resume.pdf",
+    "icon": ["fas", "file-pdf"],
+    "isMain": false,
+    "isCenter": true,
+    "text": "Resume"
   }
 ]
