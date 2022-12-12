@@ -4,7 +4,7 @@
 
 ### Screenshot
 
-![](../gh-files/screenshots/demo.gif)
+![](https://i.imgur.com/aI47ezh.png)
 
 ## How to ...
 
