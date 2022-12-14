@@ -685,65 +685,65 @@
       },
       "courses": [
         {
-          "courseName": "CJS 101",
+          "courseName": "CJS 101 - A",
           "sections": [
             {
               "title": "Introduction to Criminal Justice",
               "url": "https://catalog.drexel.edu/search/?P=CJS%20101",
               "progress": {
-                "completed": 1.5,
+                "completed": 3,
                 "total": 3
               }
             }
           ]
         },
         {
-          "courseName": "CS 361",
+          "courseName": "CS 361 - A+",
           "sections": [
             {
               "title": "Concurrent Programming",
               "url": "https://catalog.drexel.edu/search/?P=CS%20361",
               "progress": {
-                "completed": 1.5,
+                "completed": 3,
                 "total": 3
               }
             }
           ]
         },
         {
-          "courseName": "CS 461",
+          "courseName": "CS 461 - A+",
           "sections": [
             {
               "title": "Database Systems",
               "url": "https://catalog.drexel.edu/search/?P=CS%20461",
               "progress": {
-                "completed": 1.5,
+                "completed": 3,
                 "total": 3
               }
             }
           ]
         },
         {
-          "courseName": "PHIL 311",
+          "courseName": "PHIL 311 - A",
           "sections": [
             {
               "title": "Ethics and Information Technology",
               "url": "https://catalog.drexel.edu/search/?P=PHIL%20311",
               "progress": {
-                "completed": 1.5,
+                "completed": 3,
                 "total": 3
               }
             }
           ]
         },
         {
-          "courseName": "SE 310",
+          "courseName": "SE 310 - A",
           "sections": [
             {
               "title": "Software Architecture I",
               "url": "https://catalog.drexel.edu/search/?P=SE%20310",
               "progress": {
-                "completed": 1.5,
+                "completed": 3,
                 "total": 3
               }
             }
@@ -840,7 +840,7 @@
               "url": "#",
               "progress": {
                 "completed": 0,
-                "total": 81.5
+                "total": 58.5
               }
             }
           ]
