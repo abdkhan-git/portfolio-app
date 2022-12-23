@@ -4,7 +4,7 @@
 
   - B.S. in Computer Science
   - Expected Graduation in June 2024
-  - GPA: 3.83
+  - GPA: 3.85
 
 - Harvard CS50 Course ([certificate] (https://certificates.cs50.io/801bb5e8-6b16-4993-94ac-85911ba54d47.pdf?size=letter))
 
