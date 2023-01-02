@@ -39,7 +39,7 @@ SAP America - Production Management Portals (April 2021 - March 2022)
 
 Drexel College of Computing and Informatics - Teacher Assistant (April 2021 - Current)
 
-- Created and sold a program designed to improve grading efficiency by a factor of 20 for $500
+- Created and sold a program designed to improve grading efficiency by a factor of 20 for $500 ([demo](https://www.youtube.com/watch?v=CO17z39q-qE))
 - Helped students understand complex concepts in Computer Science and cleared confusions by attending regular office hours
 - Graded student homework
 
