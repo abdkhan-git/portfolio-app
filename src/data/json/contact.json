@@ -42,7 +42,7 @@
   },
   {
     "name": "Resume",
-    "url": "/Zohair's Resume.pdf",
+    "url": "/resume.pdf",
     "icon": ["fas", "file-pdf"],
     "isMain": false,
     "isCenter": true,
