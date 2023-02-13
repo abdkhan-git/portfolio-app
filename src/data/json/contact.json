@@ -42,7 +42,7 @@
   },
   {
     "name": "Resume",
-    "url": "https://github.com/Zohair-coder/Web-Dev-Resume/raw/main/Zohair's%20Resume.pdf",
+    "url": "/Zohair's Resume.pdf",
     "icon": ["fas", "file-pdf"],
     "isMain": false,
     "isCenter": true,
