@@ -1,8 +1,12 @@
 ### Experience
 
+<img src="https://bsidesdelaware.com/wp-content/uploads/2012/11/SIG_A_color.png" width=50 />
+
+Susquehanna International Group (SIG) - Software Developer (March 2023 - Current)
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png" width=50 />
 
-SAP America - Artificial Intelligence (April 2022 - Current)
+SAP America - Artificial Intelligence (April 2022 - March 2023)
 
 - Contributed to an open-source ML platform (ML Lab [github.com/SAP/machine-learning-lab](https://github.com/SAP/machine-learning-lab)) that acts as a centralized hub for development teams to seamlessly build, deploy, & operate ML solutions at scale
 - Integrated an open-source solution, MLFlow, into ML Lab for tracking parameters, metrics & artifacts for each run using Python, FastAPI & React
