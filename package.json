@@ -10,7 +10,7 @@
   "homepage": "https://www.zohair.dev",
   "license": "GNU GPLv3",
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test:base": "react-scripts test --passWithNoTests",
     "test": "npm run test:base -- --watchAll=false",
