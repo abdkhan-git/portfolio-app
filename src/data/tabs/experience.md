@@ -1,10 +1,10 @@
 ### Experience
 
-<img src="https://bsidesdelaware.com/wp-content/uploads/2012/11/SIG_A_color.png" width=50 />
+<img src="/images/sig_logo.png" width=70 />
 
 Susquehanna International Group (SIG) - Software Developer (March 2023 - Current)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png" width=50 />
+<img src="/images/sap_logo.png" width=50 />
 
 SAP America - Artificial Intelligence (April 2022 - March 2023)
 
@@ -17,15 +17,15 @@ SAP America - Artificial Intelligence (April 2022 - March 2023)
 - Debugged and fixed small issues with ML Lab using React and Python to improve user experience
 
 <div>
-<img src="https://i.imgur.com/0GCYuCI.png" width="80%" style="margin-bottom: 25px">
+<img src="/images/mlflow/1.png" width="80%" style="margin-bottom: 25px">
 
-<img src="https://i.imgur.com/YmbsZRS.png" width="80%" style="margin-bottom: 25px">
+<img src="/images/mlflow/2.png" width="80%" style="margin-bottom: 25px">
 
-<img src="https://i.imgur.com/PVRoLMg.png" width="80%" style="margin-bottom: 35px">
+<img src="/images/mlflow/3.png" width="80%" style="margin-bottom: 35px">
 </div>
 
 <div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png" width=50 />
+<img src="/images/sap_logo.png" width=50 />
 </div>
 
 SAP America - Production Management Portals (April 2021 - March 2022)
@@ -39,7 +39,7 @@ SAP America - Production Management Portals (April 2021 - March 2022)
 - Developed Ruby script to process billing data from Dynatrace and upload to Kibana for visualization and analyzation, reducing bill cost by 30%
 - Wrote Terraform modules to improve productivity for employees
 
-<img src="https://drexel.edu/~/media/Images/identity/pageLogos/Drexel_Vertical-stacked_gold.ashx?la=en" width=50>
+<img src="/images/drexel_logo.png" width=50>
 
 Drexel College of Computing and Informatics - Teacher Assistant (April 2021 - Current)
 
@@ -47,7 +47,7 @@ Drexel College of Computing and Informatics - Teacher Assistant (April 2021 - Cu
 - Helped students understand complex concepts in Computer Science and cleared confusions by attending regular office hours
 - Graded student homework
 
-<img src="https://drexel.edu/~/media/Images/identity/pageLogos/Drexel_Vertical-stacked_gold.ashx?la=en" width=50>
+<img src="/images/drexel_logo.png" width=50>
 
 Drexel Vertically Integrated Projects - Software Engineer (April 2020 - June 2020)
 
