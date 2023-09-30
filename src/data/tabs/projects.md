@@ -5,6 +5,10 @@
 
   Developed a Python web scraper to scrape data from [Drexel Term Master Schedule](https://termmasterschedule.drexel.edu/webtms_du/) and [RateMyProfessors](https://www.ratemyprofessors.com/) and visualized the data in a Grafana dashboard to help students find the course that they're looking for. Over 300 active users according to Google Analytics.
 
+  <a href="https://scheduler.zohair.dev">
+    <img src="/images/projects/drexel-scraper.png" width="80%">
+  </a>
+
 - [MarketSIM](https://gitlab.com/Zohair-coder/market-sim)
 
   Led a team of 4 to create a stock market simulator to invest with virtual currency using React.js, Node.js, PostgreSQL and web sockets to get real time stock data.
