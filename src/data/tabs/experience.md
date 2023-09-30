@@ -2,7 +2,14 @@
 
 <img src="/images/sig_logo.png" width=70 />
 
-Susquehanna International Group (SIG) - Software Developer (March 2023 - Current)
+Susquehanna International Group (SIG) - Software Developer (March 2023 - September 2023)
+
+- Worked on multiple projects leveraging the .NET ecosystem, SQL Server databases, and Elastic APM
+- Maintained .NET MVC applications for application inventory management and operational checks, improving information accessibility and application performance monitoring
+- Automated IIS log retrieval and database updates in C#, facilitating data visualization on a Grafana dashboard for informed decision-making
+- Built a .NET 7 Minimal API application to automate our teams software testing workflows and deployed it to Kubernetes, pioneering solutions for Windows Authentication challenges inside Linux containers
+- Created a web application for automated scheduled communications through Symphony chatbots, streamlining team updates on operational statuses
+- Conceptualized and developed a force-directed graph visualization tool using d3.js, facilitating the analysis of our teams application inventory data
 
 <img src="/images/sap_logo.png" width=50 />
 
