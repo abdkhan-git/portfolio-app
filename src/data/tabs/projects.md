@@ -5,7 +5,9 @@
 
   Developed a Python web scraper to scrape data from [Drexel Term Master Schedule](https://termmasterschedule.drexel.edu/webtms_du/) and [RateMyProfessors](https://www.ratemyprofessors.com/) and visualized the data in a Grafana dashboard to help students find the course that they're looking for. Over 300 active users according to Google Analytics.
 
-  <img src="/images/projects/drexel-scraper.png" width="80%"/>
+  <a href="https://scheduler.zohair.dev">
+    <img src="/images/projects/drexel-scraper.png" width="80%"/>
+  </a>
 
 - [MarketSIM](https://gitlab.com/Zohair-coder/market-sim)
 
@@ -18,7 +20,9 @@
 
   Led a team of 5 to create a React webapp to help users find recipes based on ingredients they have in their fridge
 
-  <img src="/images/projects/fridge.png" width="80%">
+  <a href="https://fridge.zohair.dev">
+    <img src="/images/projects/fridge.png" width="80%">
+  </a>
 
 - [Drexel Course Notifier](https://github.com/Zohair-coder/Drexel-Course-Availability-Notifier)
 
