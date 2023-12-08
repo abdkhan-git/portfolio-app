@@ -1,44 +1,44 @@
 [
   {
     "name": "Email",
-    "url": "mailto:zohair.ul.hasan@gmail.com",
+    "url": "mailto:abdkhan033@gmail.com",
     "icon": ["fas", "envelope"],
     "isMain": true,
-    "text": "zohair.ul.hasan@gmail.com"
+    "text": "abdkhan033@gmail.com"
   },
   {
     "name": "LinkedIn",
-    "url": "https://linkedin.com/in/zohair01",
+    "url": "https://linkedin.com/in/khana30",
     "icon": ["fab", "linkedin"],
     "isMain": true,
-    "text": "linkedin.com/in/zohair01"
+    "text": "linkedin.com/in/khana30"
   },
   {
     "name": "Phone",
-    "url": "tel:2153164989",
+    "url": "tel:3476058752",
     "icon": ["fas", "phone-alt"],
     "isMain": false,
-    "text": "(215)-316-4989"
+    "text": "(347)-605-8572"
   },
 
   {
     "name": "GitHub",
-    "url": "https://github.com/zohair-coder",
+    "url": "https://github.com/abdkhan-git",
     "icon": ["fab", "github"],
-    "text": "zohair.ul.hasan@gmail.com"
+    "text": "abdkhan033@gmail.com"
   },
   {
     "name": "GitLab",
-    "url": "https://gitlab.com/zohair-coder",
+    "url": "https://gitlab.com/abdkhan-git",
     "icon": ["fab", "gitlab"],
     "isMain": false
   },
   {
     "name": "PayPal",
-    "url": "https://paypal.me/zohairulhasan",
+    "url": "https://paypal.me/abdkhan033",
     "icon": ["fab", "paypal"],
-    "isMain": true,
-    "text": "paypal.me/zohairulhasan 🥺👉🏾👈🏾"
+    "isMain": false,
+    "text": "paypal.me/abdkhan033 🥺👉🏾👈🏾"
   },
   {
     "name": "Resume",

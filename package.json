@@ -5,12 +5,12 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/Zohair-coder/caglarturali.github.io"
+    "url": "https://github.com/abdkhan-git/caglarturali.github.io"
   },
   "homepage": "https://www.zohair.dev",
   "license": "GNU GPLv3",
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provider start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test:base": "react-scripts test --passWithNoTests",
     "test": "npm run test:base -- --watchAll=false",
@@ -32,6 +32,7 @@
     "*.{js,ts,tsx}": "eslint --fix"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",

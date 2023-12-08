@@ -10,7 +10,7 @@ import csData from './json/cs.json';
 // import baData from './json/ba.json';
 import pkg from '../../package.json';
 
-import { calculateDiplomaProgress } from '../utils';
+// import { calculateDiplomaProgress } from '../utils';
 
 export const pages: PageLink[] = [
   {
@@ -28,10 +28,10 @@ export const pages: PageLink[] = [
   },
   {
     name: 'Computer Science',
-    url: '/cs',
+    url: '/degreework',
     icon: 'graduation-cap',
     isInternal: true,
-    badge: `${calculateDiplomaProgress(csData, 0)}%`,
+    badge: `70%`,
     comp: () => <Diploma diplomaData={csData} />,
   },
   // {

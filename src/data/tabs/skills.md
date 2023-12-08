@@ -1,17 +1,52 @@
-### Programming languages / libraries
+### Languages + Markup Languages
 
-- Python3 🐍
-- Node.js & JavaScript/ES6
-- Express.js
-- React
-- FastAPI
+- Java
+- JavaScript
+- Python
+- HTML5
+- React.js
+- HTML/CSS
+- C/C++
+- C#
 
-### Other
+### Developer Tools / Frameworks
 
-- Docker
-- Kubernetes
-- Terraform
-- Jenkins
-- PostgreSQL
+- VS Code
+- Eclipse
+- Apache NetBeans
+- IntelliJ Idea
+- GitHub
 - MongoDB
-- Git
+- SQL
+- REST
+- Express
+- Node.js
+- Postman
+- Bootstrap
+- Stripe
+- OpenAI
+- Windows
+- Linux/Unix
+- Angular
+- Next.js
+- AWS S3
+- PinecodeDB
+- Vercel AI SDK
+- Maple
+- MATLAB
+- Tailwind CSS
+
+### Competencies
+
+- Web Development
+- Software Testing & Debugging
+- Version Control
+- MS Office
+- Troubleshooting
+
+### Languages That I Speak
+
+- Urdu (Native)
+- English (Bilingual)
+- Spanish (Intermediate)
+- Arabic (Intermediate)
