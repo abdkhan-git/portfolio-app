@@ -4,7 +4,7 @@
 
 ### Screenshot
 
-![]([https://i.imgur.com/zcSv32r.png])
+![](https://i.imgur.com/zcSv32r.png)
 
 ## How to ...
 
@@ -15,7 +15,7 @@ Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/
 - Clone the repo:
 
   ```bash
-  git clone https://github.com/Zohair-coder/caglarturali.github.io.git portfolio-app
+  git clone https://github.com/abdkhan-git/portfolio-app portfolio-app
   cd portfolio-app
   ```
 
