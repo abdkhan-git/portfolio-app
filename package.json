@@ -79,6 +79,9 @@
     "ts-node-dev": "^1.1.8",
     "typescript": "^3.9.10"
   },
+  "pnpm": {
+    "version": "latest"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
