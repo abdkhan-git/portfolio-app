@@ -1,5 +1,5 @@
 import { IconDefinition, library } from '@fortawesome/fontawesome-svg-core';
-import { fab } from '@fortawesome/free-brands-svg-icons';
+import { faFacebookF } from '@fortawesome/free-brands-svg-icons';
 import {
   faHome,
   faGraduationCap,
@@ -21,7 +21,7 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 
 library.add(
-  fab,
+  faFacebookF,
   faHome,
   faGraduationCap,
   faCheckSquare,
