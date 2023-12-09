@@ -1,4 +1,3 @@
-/*
 import React from 'react';
 import { render } from '@testing-library/react';
 import Diploma from '../Diploma';
@@ -17,5 +16,3 @@ describe('<Diploma />', () => {
     expect(asFragment()).toMatchSnapshot();
   });
 });
-
-*/
