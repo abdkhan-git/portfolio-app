@@ -15,6 +15,9 @@ import {
   faSearch,
   faCog,
   faQuestionCircle,
+  faEnvelope,
+  faPhoneAlt,
+  faFilePdf,
 } from '@fortawesome/free-solid-svg-icons';
 
 library.add(
@@ -33,4 +36,7 @@ library.add(
   faSearch,
   faCog,
   faQuestionCircle,
+  faEnvelope,
+  faPhoneAlt,
+  faFilePdf,
 );

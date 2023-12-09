@@ -5,9 +5,9 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/abdkhan-git/caglarturali.github.io"
+    "url": "https://github.com/abdkhan-git/portfolio-app.git"
   },
-  "homepage": "https://jade-pasca-9daa31.netlify.app/",
+  "homepage": "https://abdkhan-git.github.io/portfolio-app/",
   "license": "GNU GPLv3",
   "scripts": {
     "start": "react-scripts start",
