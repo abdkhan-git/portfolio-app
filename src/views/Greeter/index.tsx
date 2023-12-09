@@ -30,8 +30,10 @@ const Greeter: React.FC<GreeterProps> = ({
       backSpeed: 70,
       loop: true,
       smartBackspace: true,
+      startDelay: 1000,
     };
 
+    const Typed = jest.fn();
     const typed = new Typed('#typed-insert-point', options);
 
     return () => {
