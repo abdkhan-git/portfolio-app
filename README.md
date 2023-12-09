@@ -4,7 +4,7 @@
 
 ### Screenshot
 
-![]([https://imgur.com/zcSv32r])
+![]([https://i.imgur.com/zcSv32r.png])
 
 ## How to ...
 
