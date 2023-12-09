@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/abdkhan-git/caglarturali.github.io"
   },
-  "homepage": "https://www.zohair.dev",
+  "homepage": "https://jade-pasca-9daa31.netlify.app/",
   "license": "GNU GPLv3",
   "scripts": {
     "start": "react-scripts start",
