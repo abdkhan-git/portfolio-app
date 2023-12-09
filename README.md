@@ -4,7 +4,7 @@
 
 ### Screenshot
 
-![]([https://i.imgur.com/aI47ezh.png](https://ibb.co/Qcd3vMY))
+![]([https://ibb.co/Qcd3vMY])
 
 ## How to ...
 
